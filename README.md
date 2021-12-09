@@ -23,7 +23,3 @@ We propose a new framework for estimating generative models via an adversarial p
 $ cd implementations/gan/
 $ python3 gan.py
 ```
-
-<p align="center">
-    <img src="assets/gan.gif" width="240"\>
-</p>
